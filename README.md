@@ -11,7 +11,9 @@ Then we can run cypress for the first time:
 - type ``` npx cypress open ``` and it will open a 
 
 ### Notes:
-``` npx ``` runs npm commands locally
+- ``` npx ``` runs npm commands locally
+
+- *Mocha* is the testrunner for Cypress.
 
 
 ___
