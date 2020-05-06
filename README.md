@@ -15,6 +15,25 @@ Then we can run cypress for the first time:
 
 - *Mocha* is the testrunner for Cypress.
 
+### Allure:
+
+To install:
+- Globally --> ``` npm install -g allure-commandline --save-dev ```
+- Locally --> ``` npm install allure-commandline --save-dev ```
+  - More info [here](https://www.npmjs.com/package/allure-commandline)
+
+To generate report:
+- Globally --> ``` allure generate```
+- Locally --> ```npx allure generate```
+
+To check to allure report
+- Globally --> ``` allure open```
+- Locally --> ```npx allure open```
+
+### Interesting notes:
+
+- *Mocha* is the testrunner for Cypress.
+
 
 ___
 
