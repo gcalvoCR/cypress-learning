@@ -1,0 +1,46 @@
+{
+  "uid" : "dda0f836c6b58b02",
+  "name" : "cy.spy() - wrap a method in a spy",
+  "fullName" : "Spies, Stubs, and Clock.cy.spy() - wrap a method in a spy",
+  "historyId" : "5c76af88bea8abea6cc5cb728c07af33",
+  "time" : {
+    "start" : 1588787245534,
+    "stop" : 1588787250174,
+    "duration" : 4640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testClass",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.spy() - wrap a method in a spy"
+  }, {
+    "name" : "package",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda0f836c6b58b02.json",
+  "parameterValues" : [ ]
+}

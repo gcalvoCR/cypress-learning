@@ -1,0 +1,46 @@
+{
+  "uid" : "1d39b20e27e1606",
+  "name" : ".add() - create a custom command",
+  "fullName" : "Cypress.Commands..add() - create a custom command",
+  "historyId" : "2b35a0ca446c213d792dd1b2ccc417cc",
+  "time" : {
+    "start" : 1588787120036,
+    "stop" : 1588787124871,
+    "duration" : 4835
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.Commands"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.Commands"
+  }, {
+    "name" : "testMethod",
+    "value" : ".add() - create a custom command"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.Commands"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d39b20e27e1606.json",
+  "parameterValues" : [ ]
+}

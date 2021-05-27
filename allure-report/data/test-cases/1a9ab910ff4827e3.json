@@ -1,0 +1,46 @@
+{
+  "uid" : "1a9ab910ff4827e3",
+  "name" : "cy.clearLocalStorage() - clear all data in local storage",
+  "fullName" : "Local Storage.cy.clearLocalStorage() - clear all data in local storage",
+  "historyId" : "9fcd85cb60fa28fe13efd97212bb247",
+  "time" : {
+    "start" : 1588787152576,
+    "stop" : 1588787157751,
+    "duration" : 5175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Local Storage"
+  }, {
+    "name" : "testClass",
+    "value" : "Local Storage"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.clearLocalStorage() - clear all data in local storage"
+  }, {
+    "name" : "package",
+    "value" : "Local Storage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a9ab910ff4827e3.json",
+  "parameterValues" : [ ]
+}

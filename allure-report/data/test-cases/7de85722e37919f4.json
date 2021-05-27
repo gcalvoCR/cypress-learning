@@ -1,0 +1,46 @@
+{
+  "uid" : "7de85722e37919f4",
+  "name" : "cy.request() with query parameters",
+  "fullName" : "Network Requests.cy.request() with query parameters",
+  "historyId" : "133e0744a78115ec302868cb2e8a45b8",
+  "time" : {
+    "start" : 1588787217474,
+    "stop" : 1588787218477,
+    "duration" : 1003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.request() with query parameters"
+  }, {
+    "name" : "package",
+    "value" : "Network Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7de85722e37919f4.json",
+  "parameterValues" : [ ]
+}

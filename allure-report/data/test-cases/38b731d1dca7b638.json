@@ -1,0 +1,46 @@
+{
+  "uid" : "38b731d1dca7b638",
+  "name" : "cy.tick() - move time in the browser",
+  "fullName" : "Spies, Stubs, and Clock.cy.tick() - move time in the browser",
+  "historyId" : "8ae1f5a9fdaa8ee25e1a13ca0a53e5ca",
+  "time" : {
+    "start" : 1588787253960,
+    "stop" : 1588787254560,
+    "duration" : 600
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testClass",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.tick() - move time in the browser"
+  }, {
+    "name" : "package",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38b731d1dca7b638.json",
+  "parameterValues" : [ ]
+}

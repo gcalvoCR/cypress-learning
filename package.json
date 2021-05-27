@@ -4,7 +4,7 @@
   "description": "cypress-learning",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "open": "npx cypress open"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/gcalvoCR/cypress-learning#readme",
   "dependencies": {
-    "cypress": "^3.8.3",
+    "cypress": "^5.0",
     "allure-commandline": "^2.9.0",
     "mocha": "^6.2.2",
     "mocha-allure-reporter": "^1.4.0"

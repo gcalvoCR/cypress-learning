@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787283154' stop='1588787292551'>
+    <name>Utilities</name>
+    <title>Utilities</title>
+    <test-cases>
+        <test-case start='1588787283155' status='passed' stop='1588787288348'>
+            <name>Cypress._ - call a lodash method</name>
+            <title>Cypress._ - call a lodash method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787288382' status='passed' stop='1588787288994'>
+            <name>Cypress.$ - call a jQuery method</name>
+            <title>Cypress.$ - call a jQuery method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787289003' status='passed' stop='1588787289954'>
+            <name>Cypress.Blob - blob utilities and base64 string conversion</name>
+            <title>Cypress.Blob - blob utilities and base64 string conversion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787289962' status='passed' stop='1588787290443'>
+            <name>Cypress.minimatch - test out glob patterns against strings</name>
+            <title>Cypress.minimatch - test out glob patterns against strings</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787290455' status='passed' stop='1588787291061'>
+            <name>Cypress.moment() - format or parse dates using a moment method</name>
+            <title>Cypress.moment() - format or parse dates using a moment method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787291067' status='passed' stop='1588787292541'>
+            <name>Cypress.Promise - instantiate a bluebird promise</name>
+            <title>Cypress.Promise - instantiate a bluebird promise</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

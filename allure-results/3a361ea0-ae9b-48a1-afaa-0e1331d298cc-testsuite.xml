@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787210791' stop='1588787223450'>
+    <name>Network Requests</name>
+    <title>Network Requests</title>
+    <test-cases>
+        <test-case start='1588787210792' status='passed' stop='1588787215327'>
+            <name>cy.server() - control behavior of network requests and responses</name>
+            <title>cy.server() - control behavior of network requests and responses</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787215353' status='passed' stop='1588787216420'>
+            <name>cy.request() - make an XHR request</name>
+            <title>cy.request() - make an XHR request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787216441' status='passed' stop='1588787217461'>
+            <name>cy.request() - verify response using BDD syntax</name>
+            <title>cy.request() - verify response using BDD syntax</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787217474' status='passed' stop='1588787218477'>
+            <name>cy.request() with query parameters</name>
+            <title>cy.request() with query parameters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787218483' status='passed' stop='1588787219835'>
+            <name>cy.request() - pass result to the second request</name>
+            <title>cy.request() - pass result to the second request</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787219841' status='passed' stop='1588787221134'>
+            <name>cy.request() - save response in the shared test context</name>
+            <title>cy.request() - save response in the shared test context</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787221142' status='passed' stop='1588787223435'>
+            <name>cy.route() - route responses to matching requests</name>
+            <title>cy.route() - route responses to matching requests</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,46 @@
+{
+  "uid" : "9c0f5100a70b93ad",
+  "name" : "best practices - selecting elements",
+  "fullName" : "Querying.best practices - selecting elements",
+  "historyId" : "3ce2f5aee851a0f5dee6c397c38ef793",
+  "time" : {
+    "start" : 1588787237284,
+    "stop" : 1588787238401,
+    "duration" : 1117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Querying"
+  }, {
+    "name" : "testClass",
+    "value" : "Querying"
+  }, {
+    "name" : "testMethod",
+    "value" : "best practices - selecting elements"
+  }, {
+    "name" : "package",
+    "value" : "Querying"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c0f5100a70b93ad.json",
+  "parameterValues" : [ ]
+}

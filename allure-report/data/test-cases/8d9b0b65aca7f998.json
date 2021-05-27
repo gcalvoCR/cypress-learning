@@ -1,0 +1,46 @@
+{
+  "uid" : "8d9b0b65aca7f998",
+  "name" : ".defaults() - change default config of server",
+  "fullName" : "Cypress.Server..defaults() - change default config of server",
+  "historyId" : "96988072667763d877eca33881099d9d",
+  "time" : {
+    "start" : 1588787126389,
+    "stop" : 1588787126827,
+    "duration" : 438
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.Server"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.Server"
+  }, {
+    "name" : "testMethod",
+    "value" : ".defaults() - change default config of server"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.Server"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d9b0b65aca7f998.json",
+  "parameterValues" : [ ]
+}

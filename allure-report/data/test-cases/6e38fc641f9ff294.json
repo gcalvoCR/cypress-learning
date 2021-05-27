@@ -1,0 +1,46 @@
+{
+  "uid" : "6e38fc641f9ff294",
+  "name" : ".isHidden() - determine if a DOM element is hidden",
+  "fullName" : "Cypress.dom..isHidden() - determine if a DOM element is hidden",
+  "historyId" : "1db357ef6fbee7329047f3ceb39f0b2",
+  "time" : {
+    "start" : 1588787127757,
+    "stop" : 1588787128132,
+    "duration" : 375
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.dom"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.dom"
+  }, {
+    "name" : "testMethod",
+    "value" : ".isHidden() - determine if a DOM element is hidden"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.dom"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e38fc641f9ff294.json",
+  "parameterValues" : [ ]
+}

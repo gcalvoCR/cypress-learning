@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787077249' stop='1588787082373'>
+    <name>Assertions Implicit Assertions</name>
+    <title>Assertions Implicit Assertions</title>
+    <test-cases>
+        <test-case start='1588787077250' status='passed' stop='1588787081875'>
+            <name>.should() - make an assertion about the current subject</name>
+            <title>.should() - make an assertion about the current subject</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787081934' status='passed' stop='1588787082369'>
+            <name>.and() - chain multiple assertions together</name>
+            <title>.and() - chain multiple assertions together</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

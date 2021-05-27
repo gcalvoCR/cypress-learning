@@ -1,0 +1,46 @@
+{
+  "uid" : "68ec04d384a03aa6",
+  "name" : "cy.focused() - get the DOM element that has focus",
+  "fullName" : "Misc.cy.focused() - get the DOM element that has focus",
+  "historyId" : "d1b4f71696fcf743fed2fa47236ab6ba",
+  "time" : {
+    "start" : 1588787183139,
+    "stop" : 1588787183745,
+    "duration" : 606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Misc"
+  }, {
+    "name" : "testClass",
+    "value" : "Misc"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.focused() - get the DOM element that has focus"
+  }, {
+    "name" : "package",
+    "value" : "Misc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68ec04d384a03aa6.json",
+  "parameterValues" : [ ]
+}

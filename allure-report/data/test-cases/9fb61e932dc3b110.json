@@ -1,0 +1,46 @@
+{
+  "uid" : "9fb61e932dc3b110",
+  "name" : "Cypress.Blob - blob utilities and base64 string conversion",
+  "fullName" : "Utilities.Cypress.Blob - blob utilities and base64 string conversion",
+  "historyId" : "54350bdda8c4cf2432355315d3faee8c",
+  "time" : {
+    "start" : 1588787289003,
+    "stop" : 1588787289954,
+    "duration" : 951
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Utilities"
+  }, {
+    "name" : "testClass",
+    "value" : "Utilities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Cypress.Blob - blob utilities and base64 string conversion"
+  }, {
+    "name" : "package",
+    "value" : "Utilities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fb61e932dc3b110.json",
+  "parameterValues" : [ ]
+}

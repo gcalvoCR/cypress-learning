@@ -1,0 +1,46 @@
+{
+  "uid" : "c835cb4e9b7ad057",
+  "name" : "cy.server() - control behavior of network requests and responses",
+  "fullName" : "Network Requests.cy.server() - control behavior of network requests and responses",
+  "historyId" : "c86f125d5d2128d4fdd908f2845abc81",
+  "time" : {
+    "start" : 1588787210792,
+    "stop" : 1588787215327,
+    "duration" : 4535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.server() - control behavior of network requests and responses"
+  }, {
+    "name" : "package",
+    "value" : "Network Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c835cb4e9b7ad057.json",
+  "parameterValues" : [ ]
+}

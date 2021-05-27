@@ -1,0 +1,46 @@
+{
+  "uid" : "975f4d7b3c53d82e",
+  "name" : "cy.go() - go back or forward in the browser's history",
+  "fullName" : "Navigation.cy.go() - go back or forward in the browser's history",
+  "historyId" : "ddffe233e18b171e739e17d60242f1ce",
+  "time" : {
+    "start" : 1588787194501,
+    "stop" : 1588787200945,
+    "duration" : 6444
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Navigation"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.go() - go back or forward in the browser's history"
+  }, {
+    "name" : "package",
+    "value" : "Navigation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "975f4d7b3c53d82e.json",
+  "parameterValues" : [ ]
+}

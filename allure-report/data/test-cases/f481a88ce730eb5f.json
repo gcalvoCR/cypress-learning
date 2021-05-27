@@ -1,0 +1,46 @@
+{
+  "uid" : "f481a88ce730eb5f",
+  "name" : "cy.clock() - control time in the browser",
+  "fullName" : "Spies, Stubs, and Clock.cy.clock() - control time in the browser",
+  "historyId" : "c4670e2aee1347af64e4de50dd0e5ee0",
+  "time" : {
+    "start" : 1588787253373,
+    "stop" : 1588787253955,
+    "duration" : 582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testClass",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.clock() - control time in the browser"
+  }, {
+    "name" : "package",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f481a88ce730eb5f.json",
+  "parameterValues" : [ ]
+}

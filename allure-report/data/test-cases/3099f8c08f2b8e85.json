@@ -1,0 +1,46 @@
+{
+  "uid" : "3099f8c08f2b8e85",
+  "name" : ".prevUntil() - get all previous sibling DOM elements until el",
+  "fullName" : "Traversal..prevUntil() - get all previous sibling DOM elements until el",
+  "historyId" : "6599f809049fe19d13780757d155c4c5",
+  "time" : {
+    "start" : 1588787274102,
+    "stop" : 1588787274603,
+    "duration" : 501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Traversal"
+  }, {
+    "name" : "testClass",
+    "value" : "Traversal"
+  }, {
+    "name" : "testMethod",
+    "value" : ".prevUntil() - get all previous sibling DOM elements until el"
+  }, {
+    "name" : "package",
+    "value" : "Traversal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3099f8c08f2b8e85.json",
+  "parameterValues" : [ ]
+}

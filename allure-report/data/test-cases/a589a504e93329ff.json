@@ -1,0 +1,46 @@
+{
+  "uid" : "a589a504e93329ff",
+  "name" : "cy.stub() - create a stub and/or replace a function with stub",
+  "fullName" : "Spies, Stubs, and Clock.cy.stub() - create a stub and/or replace a function with stub",
+  "historyId" : "a5862e119061338720d5888d399ef970",
+  "time" : {
+    "start" : 1588787252782,
+    "stop" : 1588787253360,
+    "duration" : 578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testClass",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.stub() - create a stub and/or replace a function with stub"
+  }, {
+    "name" : "package",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a589a504e93329ff.json",
+  "parameterValues" : [ ]
+}

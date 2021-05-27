@@ -1,0 +1,46 @@
+{
+  "uid" : "368f31a3c9a479fb",
+  "name" : "cy.fixture() - load a fixture",
+  "fullName" : "Files.cy.fixture() - load a fixture",
+  "historyId" : "40b17b948384bcbb7feb1c06b2c706e5",
+  "time" : {
+    "start" : 1588787138969,
+    "stop" : 1588787144045,
+    "duration" : 5076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Files"
+  }, {
+    "name" : "testClass",
+    "value" : "Files"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.fixture() - load a fixture"
+  }, {
+    "name" : "package",
+    "value" : "Files"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "368f31a3c9a479fb.json",
+  "parameterValues" : [ ]
+}

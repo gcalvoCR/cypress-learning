@@ -1,0 +1,46 @@
+{
+  "uid" : "eb52a0a42fb41d80",
+  "name" : "cy.contains() - query DOM elements with matching content",
+  "fullName" : "Querying.cy.contains() - query DOM elements with matching content",
+  "historyId" : "56690e218831d3beb5e0bd8831c4dd43",
+  "time" : {
+    "start" : 1588787235757,
+    "stop" : 1588787236275,
+    "duration" : 518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Querying"
+  }, {
+    "name" : "testClass",
+    "value" : "Querying"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.contains() - query DOM elements with matching content"
+  }, {
+    "name" : "package",
+    "value" : "Querying"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb52a0a42fb41d80.json",
+  "parameterValues" : [ ]
+}

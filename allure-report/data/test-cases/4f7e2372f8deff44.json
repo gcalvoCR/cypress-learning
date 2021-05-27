@@ -1,0 +1,46 @@
+{
+  "uid" : "4f7e2372f8deff44",
+  "name" : "Cypress.moment() - format or parse dates using a moment method",
+  "fullName" : "Utilities.Cypress.moment() - format or parse dates using a moment method",
+  "historyId" : "ea0d904586cec9191ca6b23b9ee59ae5",
+  "time" : {
+    "start" : 1588787290455,
+    "stop" : 1588787291061,
+    "duration" : 606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Utilities"
+  }, {
+    "name" : "testClass",
+    "value" : "Utilities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Cypress.moment() - format or parse dates using a moment method"
+  }, {
+    "name" : "package",
+    "value" : "Utilities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f7e2372f8deff44.json",
+  "parameterValues" : [ ]
+}

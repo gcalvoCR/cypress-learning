@@ -1,0 +1,46 @@
+{
+  "uid" : "edb517d685509390",
+  "name" : "cy.request() - pass result to the second request",
+  "fullName" : "Network Requests.cy.request() - pass result to the second request",
+  "historyId" : "eeb8abc8563207d86511714fd35675d3",
+  "time" : {
+    "start" : 1588787218483,
+    "stop" : 1588787219835,
+    "duration" : 1352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.request() - pass result to the second request"
+  }, {
+    "name" : "package",
+    "value" : "Network Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edb517d685509390.json",
+  "parameterValues" : [ ]
+}

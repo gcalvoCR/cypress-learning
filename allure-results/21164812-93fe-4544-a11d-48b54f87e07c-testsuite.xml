@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787120035' stop='1588787124884'>
+    <name>Cypress.Commands</name>
+    <title>Cypress.Commands</title>
+    <test-cases>
+        <test-case start='1588787120036' status='passed' stop='1588787124871'>
+            <name>.add() - create a custom command</name>
+            <title>.add() - create a custom command</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,46 @@
+{
+  "uid" : "a2580530484bd51a",
+  "name" : "Get underlying OS name",
+  "fullName" : "Cypress.platform.Get underlying OS name",
+  "historyId" : "17ffde106fc272d1e8a58eea7dbf0cf5",
+  "time" : {
+    "start" : 1588787129113,
+    "stop" : 1588787129584,
+    "duration" : 471
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.platform"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.platform"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get underlying OS name"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.platform"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2580530484bd51a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "3bfe694ebf87bedb",
+  "name" : "cy.wait() - wait for a specific route",
+  "fullName" : "Waiting.cy.wait() - wait for a specific route",
+  "historyId" : "8de884d3d129676901c6a8b365b149ce",
+  "time" : {
+    "start" : 1588787323832,
+    "stop" : 1588787325494,
+    "duration" : 1662
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Waiting"
+  }, {
+    "name" : "testClass",
+    "value" : "Waiting"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.wait() - wait for a specific route"
+  }, {
+    "name" : "package",
+    "value" : "Waiting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bfe694ebf87bedb.json",
+  "parameterValues" : [ ]
+}

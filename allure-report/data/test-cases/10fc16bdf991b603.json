@@ -1,0 +1,46 @@
+{
+  "uid" : "10fc16bdf991b603",
+  "name" : ".end() - end the command chain",
+  "fullName" : "Misc..end() - end the command chain",
+  "historyId" : "cc1ff7effd35849848106fd6c9f85f50",
+  "time" : {
+    "start" : 1588787177197,
+    "stop" : 1588787182194,
+    "duration" : 4997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Misc"
+  }, {
+    "name" : "testClass",
+    "value" : "Misc"
+  }, {
+    "name" : "testMethod",
+    "value" : ".end() - end the command chain"
+  }, {
+    "name" : "package",
+    "value" : "Misc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10fc16bdf991b603.json",
+  "parameterValues" : [ ]
+}

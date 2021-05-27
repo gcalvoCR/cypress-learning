@@ -1,0 +1,46 @@
+{
+  "uid" : "5eca790a5764787c",
+  "name" : "Get current version of Cypress being run",
+  "fullName" : "Cypress.version.Get current version of Cypress being run",
+  "historyId" : "6c6d261550dfd157d31079065ae9a781",
+  "time" : {
+    "start" : 1588787129612,
+    "stop" : 1588787130034,
+    "duration" : 422
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.version"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.version"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get current version of Cypress being run"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.version"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5eca790a5764787c.json",
+  "parameterValues" : [ ]
+}

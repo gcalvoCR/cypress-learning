@@ -1,0 +1,46 @@
+{
+  "uid" : "3508d7cfdc1d8cdf",
+  "name" : "should be able to add a new todo to the list",
+  "fullName" : ".should be able to add a new todo to the list",
+  "historyId" : "dff607f8c615e19e7b5781b2799bcacc",
+  "time" : {
+    "start" : 1588787350937,
+    "stop" : 1588787352065,
+    "duration" : 1128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to add a new todo to the list"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3508d7cfdc1d8cdf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "1375ced424758510",
+  "name" : ".children() - get child DOM elements",
+  "fullName" : "Traversal..children() - get child DOM elements",
+  "historyId" : "5caa8541a04ac1e777b8f6a86ce5349f",
+  "time" : {
+    "start" : 1588787261787,
+    "stop" : 1588787266528,
+    "duration" : 4741
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Traversal"
+  }, {
+    "name" : "testClass",
+    "value" : "Traversal"
+  }, {
+    "name" : "testMethod",
+    "value" : ".children() - get child DOM elements"
+  }, {
+    "name" : "package",
+    "value" : "Traversal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1375ced424758510.json",
+  "parameterValues" : [ ]
+}

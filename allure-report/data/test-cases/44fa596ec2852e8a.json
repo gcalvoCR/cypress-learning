@@ -1,0 +1,46 @@
+{
+  "uid" : "44fa596ec2852e8a",
+  "name" : "cy.window() - get the global window object",
+  "fullName" : "Window.cy.window() - get the global window object",
+  "historyId" : "5dbb744b7ea381b57797b6aaf1be6d96",
+  "time" : {
+    "start" : 1588787332656,
+    "stop" : 1588787338398,
+    "duration" : 5742
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Window"
+  }, {
+    "name" : "testClass",
+    "value" : "Window"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.window() - get the global window object"
+  }, {
+    "name" : "package",
+    "value" : "Window"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44fa596ec2852e8a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "346d4d8dac22147f",
+  "name" : "cy.writeFile() - write to a file",
+  "fullName" : "Files.cy.writeFile() - write to a file",
+  "historyId" : "d919c905828d8ca0a9aca12b68a972f4",
+  "time" : {
+    "start" : 1588787144977,
+    "stop" : 1588787145852,
+    "duration" : 875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Files"
+  }, {
+    "name" : "testClass",
+    "value" : "Files"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.writeFile() - write to a file"
+  }, {
+    "name" : "package",
+    "value" : "Files"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "346d4d8dac22147f.json",
+  "parameterValues" : [ ]
+}

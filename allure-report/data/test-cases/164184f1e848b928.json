@@ -1,0 +1,46 @@
+{
+  "uid" : "164184f1e848b928",
+  "name" : ".defaults() - set defaults for all cookies",
+  "fullName" : "Cypress.Cookies..defaults() - set defaults for all cookies",
+  "historyId" : "de6f02428cd0783f01d96da9248d9c8b",
+  "time" : {
+    "start" : 1588787125966,
+    "stop" : 1588787126366,
+    "duration" : 400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.Cookies"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.Cookies"
+  }, {
+    "name" : "testMethod",
+    "value" : ".defaults() - set defaults for all cookies"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.Cookies"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "164184f1e848b928.json",
+  "parameterValues" : [ ]
+}

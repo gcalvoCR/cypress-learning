@@ -1,0 +1,46 @@
+{
+  "uid" : "64fb7f14faafd01a",
+  "name" : "Get and set configuration options",
+  "fullName" : "Cypress.config().Get and set configuration options",
+  "historyId" : "cd56e9d5fea75c0484c3d7ae2b5df15b",
+  "time" : {
+    "start" : 1588787127265,
+    "stop" : 1588787127740,
+    "duration" : 475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.config()"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.config()"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get and set configuration options"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.config()"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64fb7f14faafd01a.json",
+  "parameterValues" : [ ]
+}

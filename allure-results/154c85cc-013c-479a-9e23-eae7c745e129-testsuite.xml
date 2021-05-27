@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787245534' stop='1588787254579'>
+    <name>Spies, Stubs, and Clock</name>
+    <title>Spies, Stubs, and Clock</title>
+    <test-cases>
+        <test-case start='1588787245534' status='passed' stop='1588787250174'>
+            <name>cy.spy() - wrap a method in a spy</name>
+            <title>cy.spy() - wrap a method in a spy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787250195' status='passed' stop='1588787252779'>
+            <name>cy.spy() retries until assertions pass</name>
+            <title>cy.spy() retries until assertions pass</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787252782' status='passed' stop='1588787253360'>
+            <name>cy.stub() - create a stub and/or replace a function with stub</name>
+            <title>cy.stub() - create a stub and/or replace a function with stub</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787253373' status='passed' stop='1588787253955'>
+            <name>cy.clock() - control time in the browser</name>
+            <title>cy.clock() - control time in the browser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588787253960' status='passed' stop='1588787254560'>
+            <name>cy.tick() - move time in the browser</name>
+            <title>cy.tick() - move time in the browser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,46 @@
+{
+  "uid" : "1304c18aa366a04d",
+  "name" : "Cypress.$ - call a jQuery method",
+  "fullName" : "Utilities.Cypress.$ - call a jQuery method",
+  "historyId" : "13dfa70b4df9fd78275d1904dbc4bdbe",
+  "time" : {
+    "start" : 1588787288382,
+    "stop" : 1588787288994,
+    "duration" : 612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Utilities"
+  }, {
+    "name" : "testClass",
+    "value" : "Utilities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Cypress.$ - call a jQuery method"
+  }, {
+    "name" : "package",
+    "value" : "Utilities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1304c18aa366a04d.json",
+  "parameterValues" : [ ]
+}

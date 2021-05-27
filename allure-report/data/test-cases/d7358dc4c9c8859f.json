@@ -1,0 +1,46 @@
+{
+  "uid" : "d7358dc4c9c8859f",
+  "name" : ".eq() - get a DOM element at a specific index",
+  "fullName" : "Traversal..eq() - get a DOM element at a specific index",
+  "historyId" : "b43f71241d2064db88bc40fbf2bcb177",
+  "time" : {
+    "start" : 1588787267007,
+    "stop" : 1588787267522,
+    "duration" : 515
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Traversal"
+  }, {
+    "name" : "testClass",
+    "value" : "Traversal"
+  }, {
+    "name" : "testMethod",
+    "value" : ".eq() - get a DOM element at a specific index"
+  }, {
+    "name" : "package",
+    "value" : "Traversal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7358dc4c9c8859f.json",
+  "parameterValues" : [ ]
+}

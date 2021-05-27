@@ -1,0 +1,46 @@
+{
+  "uid" : "475cfaced50efc4b",
+  "name" : "cy.wait() - wait for a specific amount of time",
+  "fullName" : "Waiting.cy.wait() - wait for a specific amount of time",
+  "historyId" : "b81c4d38b5fc56ec7c52eeb8723130b",
+  "time" : {
+    "start" : 1588787314780,
+    "stop" : 1588787323817,
+    "duration" : 9037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Waiting"
+  }, {
+    "name" : "testClass",
+    "value" : "Waiting"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.wait() - wait for a specific amount of time"
+  }, {
+    "name" : "package",
+    "value" : "Waiting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "475cfaced50efc4b.json",
+  "parameterValues" : [ ]
+}

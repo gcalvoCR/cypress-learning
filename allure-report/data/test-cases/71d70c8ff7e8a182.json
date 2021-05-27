@@ -1,0 +1,46 @@
+{
+  "uid" : "71d70c8ff7e8a182",
+  "name" : "cy.title() - get the title",
+  "fullName" : "Window.cy.title() - get the title",
+  "historyId" : "86d5bc0c6e8a7c82b8fb5974c44431d5",
+  "time" : {
+    "start" : 1588787339136,
+    "stop" : 1588787339590,
+    "duration" : 454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Window"
+  }, {
+    "name" : "testClass",
+    "value" : "Window"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.title() - get the title"
+  }, {
+    "name" : "package",
+    "value" : "Window"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71d70c8ff7e8a182.json",
+  "parameterValues" : [ ]
+}

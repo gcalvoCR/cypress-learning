@@ -1,0 +1,46 @@
+{
+  "uid" : "aa2347d1f2c087a4",
+  "name" : "cy.get() - query DOM elements",
+  "fullName" : "Querying.cy.get() - query DOM elements",
+  "historyId" : "619b73f7066c84cd3308d5d651f81bd",
+  "time" : {
+    "start" : 1588787230863,
+    "stop" : 1588787235726,
+    "duration" : 4863
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Querying"
+  }, {
+    "name" : "testClass",
+    "value" : "Querying"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.get() - query DOM elements"
+  }, {
+    "name" : "package",
+    "value" : "Querying"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa2347d1f2c087a4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588787126388' stop='1588787126849'>
+    <name>Cypress.Server</name>
+    <title>Cypress.Server</title>
+    <test-cases>
+        <test-case start='1588787126389' status='passed' stop='1588787126827'>
+            <name>.defaults() - change default config of server</name>
+            <title>.defaults() - change default config of server</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

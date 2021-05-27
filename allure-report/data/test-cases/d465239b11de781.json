@@ -1,0 +1,46 @@
+{
+  "uid" : "d465239b11de781",
+  "name" : "cy.request() - verify response using BDD syntax",
+  "fullName" : "Network Requests.cy.request() - verify response using BDD syntax",
+  "historyId" : "d59e79ada478ec8f7070cfd559b81d94",
+  "time" : {
+    "start" : 1588787216441,
+    "stop" : 1588787217461,
+    "duration" : 1020
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "Network Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.request() - verify response using BDD syntax"
+  }, {
+    "name" : "package",
+    "value" : "Network Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d465239b11de781.json",
+  "parameterValues" : [ ]
+}

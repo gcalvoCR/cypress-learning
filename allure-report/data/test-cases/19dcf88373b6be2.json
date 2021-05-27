@@ -1,0 +1,46 @@
+{
+  "uid" : "19dcf88373b6be2",
+  "name" : "cy.viewport() - set the viewport size and dimension",
+  "fullName" : "Viewport.cy.viewport() - set the viewport size and dimension",
+  "historyId" : "d630b6c55f1eb8f7f36cedea40977c85",
+  "time" : {
+    "start" : 1588787299749,
+    "stop" : 1588787307405,
+    "duration" : 7656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Viewport"
+  }, {
+    "name" : "testClass",
+    "value" : "Viewport"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.viewport() - set the viewport size and dimension"
+  }, {
+    "name" : "package",
+    "value" : "Viewport"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19dcf88373b6be2.json",
+  "parameterValues" : [ ]
+}

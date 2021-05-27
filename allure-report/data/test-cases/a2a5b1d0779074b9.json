@@ -1,0 +1,46 @@
+{
+  "uid" : "a2a5b1d0779074b9",
+  "name" : "Control what is printed to the Command Log",
+  "fullName" : "Cypress.log.Control what is printed to the Command Log",
+  "historyId" : "42ed121a4ad071bb8a70c19e62b499a3",
+  "time" : {
+    "start" : 1588787128617,
+    "stop" : 1588787129084,
+    "duration" : 467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.log"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.log"
+  }, {
+    "name" : "testMethod",
+    "value" : "Control what is printed to the Command Log"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.log"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2a5b1d0779074b9.json",
+  "parameterValues" : [ ]
+}

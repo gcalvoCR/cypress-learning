@@ -1,0 +1,46 @@
+{
+  "uid" : "865f252fce058cc1",
+  "name" : "cy.exec() - execute a system command",
+  "fullName" : "Misc.cy.exec() - execute a system command",
+  "historyId" : "10d39da3528c5fb51801e6fb23702b",
+  "time" : {
+    "start" : 1588787182212,
+    "stop" : 1588787183131,
+    "duration" : 919
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Misc"
+  }, {
+    "name" : "testClass",
+    "value" : "Misc"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.exec() - execute a system command"
+  }, {
+    "name" : "package",
+    "value" : "Misc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "865f252fce058cc1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "dcb1f00a3916915d",
+  "name" : "cy.url() - get the current URL",
+  "fullName" : "Location.cy.url() - get the current URL",
+  "historyId" : "988dd163c58309de824e7581c9d14c72",
+  "time" : {
+    "start" : 1588787169870,
+    "stop" : 1588787170282,
+    "duration" : 412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Location"
+  }, {
+    "name" : "testClass",
+    "value" : "Location"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.url() - get the current URL"
+  }, {
+    "name" : "package",
+    "value" : "Location"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcb1f00a3916915d.json",
+  "parameterValues" : [ ]
+}

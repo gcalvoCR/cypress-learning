@@ -1,0 +1,46 @@
+{
+  "uid" : "bad7ae88bfebd537",
+  "name" : "should navigate to TodoMVC App",
+  "fullName" : ".should navigate to TodoMVC App",
+  "historyId" : "cce3b154ca01e06b0535a5ba754a518a",
+  "time" : {
+    "start" : 1588787346449,
+    "stop" : 1588787350928,
+    "duration" : 4479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to TodoMVC App"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bad7ae88bfebd537.json",
+  "parameterValues" : [ ]
+}

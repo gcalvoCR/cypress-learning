@@ -1,0 +1,46 @@
+{
+  "uid" : "db747c627241a41c",
+  "name" : "Cypress.Screenshot.defaults() - change default config of screenshots",
+  "fullName" : "Misc Cypress.Screenshot.Cypress.Screenshot.defaults() - change default config of screenshots",
+  "historyId" : "2aa67e5adb80370e7112006f7f968b3a",
+  "time" : {
+    "start" : 1588787186499,
+    "stop" : 1588787187007,
+    "duration" : 508
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Misc Cypress.Screenshot"
+  }, {
+    "name" : "testClass",
+    "value" : "Misc Cypress.Screenshot"
+  }, {
+    "name" : "testMethod",
+    "value" : "Cypress.Screenshot.defaults() - change default config of screenshots"
+  }, {
+    "name" : "package",
+    "value" : "Misc Cypress.Screenshot"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db747c627241a41c.json",
+  "parameterValues" : [ ]
+}

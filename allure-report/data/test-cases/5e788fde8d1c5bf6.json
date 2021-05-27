@@ -1,0 +1,46 @@
+{
+  "uid" : "5e788fde8d1c5bf6",
+  "name" : "Cypress._ - call a lodash method",
+  "fullName" : "Utilities.Cypress._ - call a lodash method",
+  "historyId" : "1d2e7f8f07b8f903eefce692cbf9e1a1",
+  "time" : {
+    "start" : 1588787283155,
+    "stop" : 1588787288348,
+    "duration" : 5193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Utilities"
+  }, {
+    "name" : "testClass",
+    "value" : "Utilities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Cypress._ - call a lodash method"
+  }, {
+    "name" : "package",
+    "value" : "Utilities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e788fde8d1c5bf6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b0880f27dfc111e5",
+  "name" : "cy.visit() - visit a remote url",
+  "fullName" : "Navigation.cy.visit() - visit a remote url",
+  "historyId" : "e1abcd40705d44ff7750734415cf6bfc",
+  "time" : {
+    "start" : 1588787202477,
+    "stop" : 1588787203693,
+    "duration" : 1216
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Navigation"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.visit() - visit a remote url"
+  }, {
+    "name" : "package",
+    "value" : "Navigation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0880f27dfc111e5.json",
+  "parameterValues" : [ ]
+}

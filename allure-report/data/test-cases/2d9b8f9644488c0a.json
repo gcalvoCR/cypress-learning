@@ -1,0 +1,46 @@
+{
+  "uid" : "2d9b8f9644488c0a",
+  "name" : "cy.spy() retries until assertions pass",
+  "fullName" : "Spies, Stubs, and Clock.cy.spy() retries until assertions pass",
+  "historyId" : "b1ecf2cc85e831d9e2caa3dc7508cb61",
+  "time" : {
+    "start" : 1588787250195,
+    "stop" : 1588787252779,
+    "duration" : 2584
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testClass",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "testMethod",
+    "value" : "cy.spy() retries until assertions pass"
+  }, {
+    "name" : "package",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d9b8f9644488c0a.json",
+  "parameterValues" : [ ]
+}

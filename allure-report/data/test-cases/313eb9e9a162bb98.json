@@ -1,0 +1,46 @@
+{
+  "uid" : "313eb9e9a162bb98",
+  "name" : "Get current spec information",
+  "fullName" : "Cypress.spec.Get current spec information",
+  "historyId" : "732ba621f751571a5c2bcf6ae92395b7",
+  "time" : {
+    "start" : 1588787130064,
+    "stop" : 1588787130491,
+    "duration" : 427
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.spec"
+  }, {
+    "name" : "testClass",
+    "value" : "Cypress.spec"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get current spec information"
+  }, {
+    "name" : "package",
+    "value" : "Cypress.spec"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "313eb9e9a162bb98.json",
+  "parameterValues" : [ ]
+}
