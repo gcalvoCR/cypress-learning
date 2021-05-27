@@ -1,24 +1,31 @@
-# cypress-learning
+# cypress-concepts
 
-cypress-learning
+cypress-concepts
 
-### Initial work
+=======
+
+## Initial work
 
 - to start a npm package `npm init -y`
 - to install cypress version 3 `npm install cypress@3`
 - to install cypress latest version `npm install cypress`
+  > > > > > > > 13c82ccca208da6db77706e54e168b22e6c6898d
 
 Then we can run cypress for the first time:
 
 - type `npx cypress open` and it will open a
 
-### Notes:
+=======
+
+## Notes:
+
+- `npx` runs npm commands locally
 
 - `npx` runs npm commands locally
 
 - _Mocha_ is the testrunner for Cypress.
 
-### Allure:
+## Allure:
 
 To install:
 
@@ -33,10 +40,12 @@ To generate report:
 
 To check to allure report
 
+<<<<<<< HEAD
+
 - Globally --> ` allure open`
 - Locally --> `npx allure open`
 
-To env variable
+# To env variable
 
 - MAC --> `export KEY_NAME=VALUE`
 - Windows --> `set KEY_NAME=VALUE`
@@ -49,4 +58,5 @@ To env variable
 
 ### By: Gabriel Calvo Vargas
 
-¿Do you want to get in toch? Let's talk [here](https://www.linkedin.com/in/gabriel-calvo-vargas-932b3357/).
+=======
+¿Do you want to get in touch? Let's talk [here](https://www.linkedin.com/in/gcalvoCR/).
